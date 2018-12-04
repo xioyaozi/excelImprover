@@ -79,6 +79,7 @@ Learning Guide: On the Format Painter button, right click and add to the Quick A
 
 1.8, data perspective
 Learning Guide: Select the data to be statistic, click Insert - PivotTable / PivotChart, and drag the row label, column label and value to complete the corresponding data combination.
+
 ---------------English End-----------------
 
 
