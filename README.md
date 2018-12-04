@@ -17,30 +17,39 @@ Excel，我认为可以分为是三个等级：低级，中级，高级。
 1 基础技巧篇
 
 1.1、Ctrl + 1  快速调出 设置单元格的窗口
+
 学习指导：方法简单，可直接操作
 
 1.2、Alt + ↓   自动给出已经输入的候选项
+
 学习指导：方法简单，可直接操作
 
 1.3、使用F5 进行定位，然后用Ctrl + Enter进行所有表格的应用
-学习指导：打开basic_skill/1.3.xlsx，使用该方法快速将框子里的空格填充成N ？
+
+学习指导：打开basic_skill/1.3.xlsx，使用该方法快速将框子里的空格填充成No ？
 
 1.4、分列
+
 学习指导：打开basic_skill/1.4.xlsx，使用该方法快速将第一列按空格键分成3列 ？
 
 1.5、Ctrl + ；快速输入日期
+
 学习指导：方法简单，可直接操作
 
 1.6、选择性粘贴（转置和跳过空单元）
-学习指导：打开basic_skill/1.6.xlsx，将Sheet1中的表格1增量覆盖到表格2 ？将Sheet2中的表格快速装置 ？
+
+学习指导：打开basic_skill/1.6.xlsx，将Sheet1中的表格1增量覆盖到表格2 ？将Sheet2中的表格快速转换 ？
 
 1.7、格式刷可以自定义快捷方式
+
 学习指导：在格式刷按钮上，点击右键，添加到快速访问工具栏。然后Alt+数字即可，请注意按住ALT后，对应的格式刷对应的是哪个数字。同理，该方法也适用于其他按钮。
 
 1.8、数据透视图
+
 学习指导：选中要做统计的数据，点击插入-数据透视表/数据透视图，通过拖拽行标签，列标签和数值，完成对应的数据组合。
 
 ---------------中文结束-----------------
+
 
 ---------------English Begin-----------------
 
@@ -58,27 +67,35 @@ The following are the Excel skills that I don't think most people know. I read t
 1 basic skills articles
 
 1.1, Ctrl + 1 Quick call out Set the window of the cell
+
 Learning guide: simple method, direct operation
 
 1.2, Alt + ↓ automatically gives the candidates that have been entered
+
 Learning guide: simple method, direct operation
 
 1.3, use F5 to locate, then use Ctrl + Enter to apply all forms
-Learning Guide: Open basic_skill/1.3.xlsx, use this method to quickly fill the spaces in the box with N?
+
+Learning Guide: Open basic_skill/1.3.xlsx, use this method to quickly fill the spaces in the box with No?
 
 1.4, divided
-Learning guide: Open basic_skill/1.4.xlsx, use this method to quickly divide the first column into 3 columns by pressing the space bar?
+
+Learning guide: Open basic_skill/1.4.xlsx, use this method to quickly divide the first column into 3 columns by the space ?
 
 1.5, Ctrl + ; quickly enter the date
+
 Learning guide: simple method, direct operation
 
 1.6, selective paste (transpose and skip empty units)
-Learning Guide: Open basic_skill/1.6.xlsx and overwrite Table 1 in Sheet1 to Form 2? Quickly install the form in Sheet2?
+
+Learning Guide: Open basic_skill/1.6.xlsx and merge two tables to one? Quickly converse the form in Sheet2?
 
 1.7, format brush can customize shortcuts
+
 Learning Guide: On the Format Painter button, right click and add to the Quick Access Toolbar. Then Alt + number can be, please note that the corresponding format brush corresponds to which number after holding down ALT. For the same reason, this method is also applicable to other buttons.
 
 1.8, data perspective
+
 Learning Guide: Select the data to be statistic, click Insert - PivotTable / PivotChart, and drag the row label, column label and value to complete the corresponding data combination.
 
 ---------------English End-----------------
