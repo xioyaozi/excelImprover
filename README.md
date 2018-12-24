@@ -51,7 +51,7 @@ Excel，我认为可以分为是三个等级：低级，中级，高级。
 
 2.1 公式的简单语法  --使用F9进行调试，公式输入完成要使用Ctrl + Enter来确认
 
-学习指导：打开advanced_skill/2.1.xlsx,将Sheet1的表格通过函数的方式求出水果卖了多少钱？
+学习指导：打开advanced_skill/2.1.xlsx,将test表的表格通过函数的方式求出水果卖了多少钱？
 
 2.2 掌握三种引用方式 --相对引用，混合引用，绝对引用
 
@@ -59,23 +59,23 @@ Excel，我认为可以分为是三个等级：低级，中级，高级。
 
 2.3 数组公式
 
-学习指导：打开advanced_skill/2.3.xlsx,将Sheet1的表格只通过1个函数求出水果卖了多少钱？
+学习指导：打开advanced_skill/2.3.xlsx,将test表的表格只通过1个函数求出水果卖了多少钱？
 
 2.4 函数嵌套
 
-学习指导：打开advanced_skill/2.4.xlsx,将Sheet1的表格只通过1个函数求出通过人数？
+学习指导：打开advanced_skill/2.4.xlsx,将test表的表格只通过1个函数求出通过人数？
 
 2.5 求和之王SUMPRODUCT --会将非数值型的数组元素作为0处理，且需要至少两个条件组合才能求出结果，该方法直接使用Ctrl + Enter即可。
 
-学习指导：打开advanced_skill/2.5.xlsx,将Sheet1的表格只通过1个函数求出通过人数？
+学习指导：打开advanced_skill/2.5.xlsx,将test表的表格只通过1个函数求出通过人数？
 
 2.6 函数VLOOKUP   --根据调查，VLOOKUP, SUM, IF是使用频率最高的三个函数，现在就剩VLOOKUP没有接触。
 
-学习指导：打开advanced_skill/2.6.xlsx,将Sheet1的表格z中通过选择水果名称获取对应的价格？
+学习指导：打开advanced_skill/2.6.xlsx,将test表的表格中通过选择水果名称获取对应的价格？
 
 2.7 经典的INDEX+MATCH组合  --INDEX是对区域的行列号交叉值的引用，MATCH是返回符合特定值在数组中的相对位置。
 
-学习指导：打开advanced_skill/2.7.xlsx,将Sheet1/Sheet 2的表格转换成所要的表格？
+学习指导：打开advanced_skill/2.7.xlsx,将test表的表格转换成所要的表格？
 
 ---------------中文结束-----------------
 
